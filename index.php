@@ -403,7 +403,7 @@ function generateName($config, $type) {
 
     $lantency = ping($configIp, $configPort, 1);
 
-    return "{$isEncrypted} {$configType}-{$configNetwork}-{$configTLS} {$configFlag} {$configLocation} {$lantency}";
+    return "{$isEncrypted}"."V2rayMiner"." {$configLocation} {$configFlag}";
 }
 
 function getNetwork($config, $type) {
@@ -477,8 +477,8 @@ function ping($host, $port, $timeout) {
 }
 
 function generateHiddifyTags() {
-    $profileTitle = base64_encode("HiN Miner 🫧");
-    return "#profile-title: base64:{$profileTitle}\n#profile-update-interval: 1\n#subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531\n#support-url: https://hingroup.t.me\n#profile-web-page-url: https://Here_is_Nowhere.t.me
+    $profileTitle = base64_encode("V2ray Miner 🕊️");
+    return "#profile-title: base64:{$profileTitle}\n#profile-update-interval: 1\n#subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531\n#support-url: https://V2rayMinerGp.t.me\n#profile-web-page-url: https://t.me/V2rayMiner
 ";
 }
 
