@@ -1,4 +1,4 @@
-name: "HiN Miner"
+name: "V2ray Miner"
 
 on:
   workflow_dispatch:
