@@ -8,9 +8,6 @@
         "vmess:\/\/03fcc618-b93d-6796-6aed-8a38c975d581@68.168.31.196:443?alpn=http%2F1.1&amp;encryption=auto&amp;fp=chrome&amp;host=vk.com&amp;path=%2Flinkvws&amp;security=tls&amp;sni=vkvd127.mycdn.me&amp;type=ws#%F0%9F%92%B0%F0%9F%92%A5%F0%9F%87%AC%F0%9F%87%A7%20GB%2068.168.31.196%20%E2%97%88%20ws:443%20%E2%97%88%20GTHost%20\/%20OBJX%20Networks%20%E2%97%88%2092f09<\/code><\/div>"
     ],
     "vless": [
-        "vless:\/\/d47ebd8e-0acd-41d4-802f-6905c974d44b@5.57.33.33:443\/?type=tcp&amp;encryption=none&amp;flow=#sub<\/code><\/div>",
-        "vless:\/\/a78114e8-a63a-4f0f-acf7-660e7cf4ea77@104.17.148.22:2095\/?type=ws&amp;encryption=none&amp;flow=&amp;host=www.speedtest.net.ftp.debian.org.new.%E8%87%AA%E5%B7%B1%E4%B8%8D%E5%8E%BB%E7%9C%8B%E5%95%A5%E4%BA%8B%E6%83%85%E5%9F%BA%E6%9C%AC%E6%B2%A1%E5%95%A5%E4%BA%8B%E4%BA%8B.website.&amp;path=%2F-%40Shh_Proxy-%40Shh_Proxy-%40Shh_Proxy--%40Shh_Proxy--%3Fed%3D2048#mci",
-        "vless:\/\/a78114e8-a63a-4f0f-acf7-660e7cf4ea77@www.speedtest.net:2095\/?type=ws&amp;encryption=none&amp;flow=&amp;host=www.speedtest.net.ftp.debian.org.new.%E8%87%AA%E5%B7%B1%E4%B8%8D%E5%8E%BB%E7%9C%8B%E5%95%A5%E4%BA%8B%E6%83%85%E5%9F%BA%E6%9C%AC%E6%B2%A1%E5%95%A5%E4%BA%8B%E4%BA%8B.website.&amp;path=%2F-%40Shh_Proxy-%40Shh_Proxy-%40Shh_Proxy--%40Shh_Proxy--%3Fed%3D2048#back<\/code><\/div>",
         "vless:\/\/5520c61b-86a1-40a7-9588-a8357a66f8ab@104.16.60.8:80?flow=&amp;host=bloger9.trustdevlo.com.&amp;path=%2Ftelegram-%40Lookivpn%2Ctelegram-Lookivpn%2Ctelegram-Lookivpn%2Ctelegram-Lookivpn%2Ctelegram-Lookivpn%2Ctelegram-Lookivpn%2Ctelegram-Lookivpn%2Ctelegram-Lookivpn%2Ctelegram-Lookivpn%2Ctelegram-Lookivpn%2Ctelegram-Lookivpn%2Ctelegram-Lookivpn%2Ctelegram-Lookivpn%2Ctelegram-Lookivpn%2Ctelegram-Lookivpn%2CMmdv2rayng-V2rayngmmd-telegram-mreza-v2ray%3Fed%3D2056&amp;type=ws#%F0%9F%94%97%20Vauth%20-%201631<\/code><\/div>",
         "vless:\/\/6f74afeb-e1c4-4bc0-a167-d2925bee62b3@104.25.191.117:443?alpn=http%2F1.1&amp;flow=&amp;fp=randomized&amp;host=hetzner6ksflsf.nftsmmpanel.com&amp;path=%2FTelegram-%40SiNABiGO%2F%3Fed%3D2560&amp;security=tls&amp;sni=hetzner6ksflsf.nftsmmpanel.com&amp;type=ws#%F0%9F%94%97%20Vauth%20-%20611<\/code><\/div>",
         "vless:\/\/bd2914ed-69b1-4533-a7f0-929527541c35@104.24.197.20:80?flow=&amp;host=dl5.heykakenakhshanemvaberanakhshanemkhadijeomanigakobraoaminfatema.com&amp;path=Mmdv2rayng-V2rayngmmd-telegram-mmd_v2rayng%3Fed%3D80&amp;type=ws#%F0%9F%94%97%20Vauth%20-%20596<\/code><\/div>",
@@ -18,9 +15,7 @@
         "vless:\/\/fa8ec474-39d3-481f-9281-1fb6fce4ef10@159.100.17.71:12393?flow=&amp;type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20DE%20159.100.17.71%20%E2%97%88%20tcp:12393%20%E2%97%88%20firstcolo%20%E2%97%88%20f9a8e<\/code><\/div>"
     ],
     "trojan": [],
-    "ss": [
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%20%2833%29"
-    ],
+    "ss": [],
     "tuic": [],
     "hysteria": [],
     "hysteria2": [],
