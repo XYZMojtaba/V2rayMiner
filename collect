@@ -1,8 +1,5 @@
 {
-    "vmess": [
-        "vmess:\/\/67ddcdc0-eb50-11ee-a09c-3759ee9e5e87@192.248.190.110:11005?encryption=auto&amp;type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20DE%20192.248.190.110%20%E2%97%88%20tcp:11005%20%E2%97%88%20The%20Constant%20Company%20\/%20Vultr%20Holdings%20Frankfurt%20%E2%97%88%20b1e47<\/code><\/div>",
-        "vmess:\/\/03fcc618-b93d-6796-6aed-8a38c975d581@68.168.31.196:443?alpn=http%2F1.1&amp;encryption=auto&amp;fp=chrome&amp;host=vk.com&amp;path=%2Flinkvws&amp;security=tls&amp;sni=vkvd127.mycdn.me&amp;type=ws#%F0%9F%92%B0%F0%9F%92%A5%F0%9F%87%AC%F0%9F%87%A7%20GB%2068.168.31.196%20%E2%97%88%20ws:443%20%E2%97%88%20GTHost%20\/%20OBJX%20Networks%20%E2%97%88%2092f09<\/code><\/div>"
-    ],
+    "vmess": [],
     "vless": [],
     "trojan": [],
     "ss": [],
