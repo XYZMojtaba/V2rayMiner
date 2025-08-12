@@ -1,5 +1,8 @@
 {
-    "vmess": [],
+    "vmess": [
+        "vmess:\/\/ewogICJhZGQiOiAiMTk0LjExNi4yMTQuMzUiLAogICJhaWQiOiAwLAogICJpZCI6ICI1MjJkNTFiYS1iNTUzLTQ2YWItYWM1My0wZDJiZDg5ZTk2NDIiLAogICJuZXQiOiAidGNwIiwKICAicG9ydCI6IDU0NDg1LAogICJwcyI6ICJ2bWVzcy01NDQ4NSIsCiAgInRscyI6ICJub25lIiwKICAidiI6IDIKfQ==<\/pre>",
+        "vmess:\/\/ewogICJhZGQiOiAiMTk0LjExNi4yMTQuMzUiLAogICJhaWQiOiAwLAogICJpZCI6ICI1MjJkNTFiYS1iNTUzLTQ2YWItYWM1My0wZDJiZDg5ZTk2NDIiLAogICJuZXQiOiAidGNwIiwKICAicG9ydCI6IDU0NDg1LAogICJwcyI6ICJ2bWVzcy01NDQ4NSIsCiA\u2026<\/span>\u00bb<\/div>"
+    ],
     "vless": [],
     "trojan": [],
     "ss": [],
