@@ -1,8 +1,6 @@
 {
     "vmess": [],
     "vless": [
-        "vless:\/\/d25456d9-eaad-4546-96a3-288410d2a09f@ru-0017.vpnvezdehod.net:443\/?type=tcp&amp;encryption=none&amp;flow=xtls-rprx-vision&amp;sni=hls-svod.itunes.apple.com&amp;fp=chrome&amp;security=reality&amp;pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&amp;sid=8453e5fd9af927#%40V2rayMiner\u2026<\/span>\u00bb<\/div>",
-        "vless:\/\/80d32ddd-c0ac-4eb6-8a2a-3b27b23f32b4@104.24.198.187:80\/?type=ws&amp;encryption=none&amp;flow=&amp;host=icy-cherry-b8af-ppal03.givay59005.workers.dev&amp;path=%2F%3Fed%3D2560#%40V2rayMiner<\/pre>",
         "vless:\/\/80d32ddd-c0ac-4eb6-8a2a-3b27b23f32b4@104.24.198.187:80\/?type=ws&amp;encryption=none&amp;flow=&amp;host=icy-cherry-b8af-ppal03.givay59005.workers.dev&amp;path=%2F%3Fed%3D2560#%40V2rayMiner",
         "vless:\/\/3c918c19-a5bd-4f2c-9b30-03c681c93ddc@www.speedtest.net:443\/?type=ws&amp;encryption=none&amp;flow=&amp;host=v2rayminer.pages.dev&amp;path=%2FB3H1vZ8ia6Q300SB%2FNzguNDYuNzMuNDk%3D%3Fed%3D2560&amp;security=tls&amp;sni=V2RaYmiNEr.PaGES.dEv&amp;alpn=http%2F1.1&amp;fp=randomized#%40V2rayMiner6<\/pre>",
         "vless:\/\/3c918c19-a5bd-4f2c-9b30-03c681c93ddc@172.66.47.140:8443\/?type=ws&amp;encryption=none&amp;flow=&amp;host=v2rayminer.pages.dev&amp;path=%2FWwPEDup8yShFB1Wp%2FNzguNDYuNzMuNDk%3D%3Fed%3D2560&amp;security=tls&amp;sni=V2RayMinER.PAGeS.Dev&amp;alpn=http%2F1.1&amp;fp=randomized#%40V2rayMiner<\/pre>",
@@ -12,7 +10,13 @@
         "vless:\/\/59e67234-cd96-4082-90cb-624be5f79bba@172.66.45.30:443\/?type=ws&amp;encryption=none&amp;flow=&amp;host=v2rayminer2.pages.dev&amp;path=%2FGfD5LTkmGO4hWd7V%2FMzcuMjcuNTkuODM%3D%3Fed%3D2560&amp;security=tls&amp;sni=v2RaymInEr2.pagES.DEv&amp;alpn=http%2F1.1&amp;fp=randomized#%40V2rayMiner<\/pre>",
         "vless:\/\/59e67234-cd96-4082-90cb-624be5f79bba@172.66.45.30:443\/?type=ws&amp;encryption=none&amp;flow=&amp;host=v2rayminer2.pages.dev&amp;path=%2FGfD5LTkmGO4hWd7V%2FMzcuMjcuNTkuODM%3D%3Fed%3D2560&amp;security=tls&amp;sni=v2RaymInEr2.pagES.DEv&amp;alpn=http%2F1.1&amp;fp=randomized#%40V2rayMiner\u2026<\/span>\u00bb<\/div>",
         "vless:\/\/10f3650d-32f6-470a-b100-e29471cf3380@78.159.131.107:443\/?type=tcp&amp;encryption=none&amp;flow=xtls-rprx-vision&amp;sni=pingless.com&amp;fp=random&amp;security=reality&amp;pbk=6vqqlSsqIQLQ-pmkPfTQ0tJ2kh3U74YqTUcn06nYagY&amp;sid=b6#%40V2rayMiner<\/pre>",
-        "vless:\/\/10f3650d-32f6-470a-b100-e29471cf3380@78.159.131.107:443\/?type=tcp&amp;encryption=none&amp;flow=xtls-rprx-vision&amp;sni=pingless.com&amp;fp=random&amp;security=reality&amp;pbk=6vqqlSsqIQLQ-pmkPfTQ0tJ2kh3U74YqTUcn06nYagY&amp;sid=b6#%40V2rayMiner"
+        "vless:\/\/10f3650d-32f6-470a-b100-e29471cf3380@78.159.131.107:443\/?type=tcp&amp;encryption=none&amp;flow=xtls-rprx-vision&amp;sni=pingless.com&amp;fp=random&amp;security=reality&amp;pbk=6vqqlSsqIQLQ-pmkPfTQ0tJ2kh3U74YqTUcn06nYagY&amp;sid=b6#%40V2rayMiner",
+        "vless:\/\/e258977b-e413-4718-a3af-02d75492c349@8.6.112.0:443?path=%2F&amp;security=tls&amp;encryption=none&amp;host=all.aniuge.qzz.io&amp;type=ws&amp;sni=all.aniuge.qzz.io#%40V2rayMiner%20348<\/pre>",
+        "vless:\/\/e258977b-e413-4718-a3af-02d75492c349@8.6.112.0:443?path=%2F&amp;security=tls&amp;encryption=none&amp;host=x-hk.xaniusnippets.qzz.io&amp;type=ws&amp;sni=x-hk.xaniusnippets.qzz.io#%40V2rayMiner%20184%20",
+        "vless:\/\/e258977b-e413-4718-a3af-02d75492c349@8.6.112.0:443?path=%2F&amp;security=tls&amp;encryption=none&amp;host=ww23.sgxaniu.qzz.io&amp;type=ws&amp;sni=ww23.sgxaniu.qzz.io#%40V2rayMiner%20167%20",
+        "vless:\/\/e258977b-e413-4718-a3af-02d75492c349@8.6.112.0:443?path=%2F&amp;security=tls&amp;encryption=none&amp;host=ww1.sgxaniu.qzz.io&amp;type=ws&amp;sni=ww1.sgxaniu.qzz.io#%40V2rayMiner%20193%20",
+        "vless:\/\/d577ad65-4e97-4b4f-8adf-29340520318c@8.6.112.0:443?path=%2F64.110.70.205%3A23022&amp;security=tls&amp;encryption=none&amp;host=heavenlyblue.qzz.io&amp;type=ws&amp;sni=heavenlyblue.qzz.io#%40V2rayMiner%20205%20",
+        "vless:\/\/495c0dad-3268-4470-ac57-887c5089db0d@8.6.112.0:443?path=%2F&amp;security=tls&amp;encryption=none&amp;host=ziyong.boringdad.netlib.re&amp;type=ws&amp;sni=ziyong.boringdad.netlib.re#%40V2rayMiner%208%20<\/pre>"
     ],
     "trojan": [],
     "ss": [
