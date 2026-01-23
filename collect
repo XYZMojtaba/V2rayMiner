@@ -1,7 +1,6 @@
 {
     "vmess": [],
     "vless": [
-        "vless:\/\/3c918c19-a5bd-4f2c-9b30-03c681c93ddc@www.speedtest.net:443\/?type=ws&amp;encryption=none&amp;flow=&amp;host=v2rayminer.pages.dev&amp;path=%2FB3H1vZ8ia6Q300SB%2FNzguNDYuNzMuNDk%3D%3Fed%3D2560&amp;security=tls&amp;sni=V2RaYmiNEr.PaGES.dEv&amp;alpn=http%2F1.1&amp;fp=randomized#%40V2rayMiner6<\/pre>",
         "vless:\/\/3c918c19-a5bd-4f2c-9b30-03c681c93ddc@172.66.47.140:8443\/?type=ws&amp;encryption=none&amp;flow=&amp;host=v2rayminer.pages.dev&amp;path=%2FWwPEDup8yShFB1Wp%2FNzguNDYuNzMuNDk%3D%3Fed%3D2560&amp;security=tls&amp;sni=V2RayMinER.PAGeS.Dev&amp;alpn=http%2F1.1&amp;fp=randomized#%40V2rayMiner<\/pre>",
         "vless:\/\/3c918c19-a5bd-4f2c-9b30-03c681c93ddc@172.66.47.140:8443\/?type=ws&amp;encryption=none&amp;flow=&amp;host=v2rayminer.pages.dev&amp;path=%2FWwPEDup8yShFB1Wp%2FNzguNDYuNzMuNDk%3D%3Fed%3D2560&amp;security=tls&amp;sni=V2RayMinER.PAGeS.Dev&amp;alpn=http%2F1.1&amp;fp=randomized#%40V2rayMiner\u2026<\/span>\u00bb<\/div>",
         "vless:\/\/56c04341-2180-4e1f-9646-cdeb79cbbbad@188.213.165.231:8585\/?type=tcp&amp;encryption=none&amp;flow=&amp;sni=tgju.org&amp;fp=firefox&amp;security=reality&amp;pbk=58yfyRJyku8oddKvCIBHz0K8LrTWKr3qTe-DMUcrWEg&amp;sid=ea0e387f2b260e0d#%40V2rayMiner<\/pre>",
@@ -16,7 +15,8 @@
         "vless:\/\/e258977b-e413-4718-a3af-02d75492c349@8.6.112.0:443?path=%2F&amp;security=tls&amp;encryption=none&amp;host=ww1.sgxaniu.qzz.io&amp;type=ws&amp;sni=ww1.sgxaniu.qzz.io#%40V2rayMiner%20193%20",
         "vless:\/\/d577ad65-4e97-4b4f-8adf-29340520318c@8.6.112.0:443?path=%2F64.110.70.205%3A23022&amp;security=tls&amp;encryption=none&amp;host=heavenlyblue.qzz.io&amp;type=ws&amp;sni=heavenlyblue.qzz.io#%40V2rayMiner%20205%20",
         "vless:\/\/495c0dad-3268-4470-ac57-887c5089db0d@8.6.112.0:443?path=%2F&amp;security=tls&amp;encryption=none&amp;host=ziyong.boringdad.netlib.re&amp;type=ws&amp;sni=ziyong.boringdad.netlib.re#%40V2rayMiner%208%20<\/pre>",
-        "vless:\/\/5f6f0e0b-5e9c-4116-8cac-6b325fcc4849@198.62.62.127:443\/?type=ws&amp;encryption=none&amp;flow=&amp;host=x1.x-smm.com&amp;path=%2Fapi%2Fv1%2Fchat&amp;security=tls&amp;sni=x1.x-smm.com&amp;fp=chrome#%40V2rayMiner<\/pre>"
+        "vless:\/\/5f6f0e0b-5e9c-4116-8cac-6b325fcc4849@198.62.62.127:443\/?type=ws&amp;encryption=none&amp;flow=&amp;host=x1.x-smm.com&amp;path=%2Fapi%2Fv1%2Fchat&amp;security=tls&amp;sni=x1.x-smm.com&amp;fp=chrome#%40V2rayMiner<\/pre>",
+        "vless:\/\/5a76fdef-97a2-43cd-93b9-e9646a7d6a6c@92.223.2.31:81\/?encryption=none&amp;flow=&amp;host=excoino.com&amp;type=tcp&amp;headerType=http#%40V2rayMiner%20%F0%9F%87%A6%F0%9F%87%B2<\/pre>"
     ],
     "trojan": [],
     "ss": [
