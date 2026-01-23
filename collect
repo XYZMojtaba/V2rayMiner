@@ -15,7 +15,8 @@
         "vless:\/\/e258977b-e413-4718-a3af-02d75492c349@8.6.112.0:443?path=%2F&amp;security=tls&amp;encryption=none&amp;host=ww23.sgxaniu.qzz.io&amp;type=ws&amp;sni=ww23.sgxaniu.qzz.io#%40V2rayMiner%20167%20",
         "vless:\/\/e258977b-e413-4718-a3af-02d75492c349@8.6.112.0:443?path=%2F&amp;security=tls&amp;encryption=none&amp;host=ww1.sgxaniu.qzz.io&amp;type=ws&amp;sni=ww1.sgxaniu.qzz.io#%40V2rayMiner%20193%20",
         "vless:\/\/d577ad65-4e97-4b4f-8adf-29340520318c@8.6.112.0:443?path=%2F64.110.70.205%3A23022&amp;security=tls&amp;encryption=none&amp;host=heavenlyblue.qzz.io&amp;type=ws&amp;sni=heavenlyblue.qzz.io#%40V2rayMiner%20205%20",
-        "vless:\/\/495c0dad-3268-4470-ac57-887c5089db0d@8.6.112.0:443?path=%2F&amp;security=tls&amp;encryption=none&amp;host=ziyong.boringdad.netlib.re&amp;type=ws&amp;sni=ziyong.boringdad.netlib.re#%40V2rayMiner%208%20<\/pre>"
+        "vless:\/\/495c0dad-3268-4470-ac57-887c5089db0d@8.6.112.0:443?path=%2F&amp;security=tls&amp;encryption=none&amp;host=ziyong.boringdad.netlib.re&amp;type=ws&amp;sni=ziyong.boringdad.netlib.re#%40V2rayMiner%208%20<\/pre>",
+        "vless:\/\/5f6f0e0b-5e9c-4116-8cac-6b325fcc4849@198.62.62.127:443\/?type=ws&amp;encryption=none&amp;flow=&amp;host=x1.x-smm.com&amp;path=%2Fapi%2Fv1%2Fchat&amp;security=tls&amp;sni=x1.x-smm.com&amp;fp=chrome#%40V2rayMiner<\/pre>"
     ],
     "trojan": [],
     "ss": [
