@@ -1,8 +1,6 @@
 {
     "vmess": [],
     "vless": [
-        "vless:\/\/10f3650d-32f6-470a-b100-e29471cf3380@78.159.131.107:443\/?type=tcp&amp;encryption=none&amp;flow=xtls-rprx-vision&amp;sni=pingless.com&amp;fp=random&amp;security=reality&amp;pbk=6vqqlSsqIQLQ-pmkPfTQ0tJ2kh3U74YqTUcn06nYagY&amp;sid=b6#%40V2rayMiner<\/pre>",
-        "vless:\/\/10f3650d-32f6-470a-b100-e29471cf3380@78.159.131.107:443\/?type=tcp&amp;encryption=none&amp;flow=xtls-rprx-vision&amp;sni=pingless.com&amp;fp=random&amp;security=reality&amp;pbk=6vqqlSsqIQLQ-pmkPfTQ0tJ2kh3U74YqTUcn06nYagY&amp;sid=b6#%40V2rayMiner",
         "vless:\/\/e258977b-e413-4718-a3af-02d75492c349@8.6.112.0:443?path=%2F&amp;security=tls&amp;encryption=none&amp;host=all.aniuge.qzz.io&amp;type=ws&amp;sni=all.aniuge.qzz.io#%40V2rayMiner%20348<\/pre>",
         "vless:\/\/e258977b-e413-4718-a3af-02d75492c349@8.6.112.0:443?path=%2F&amp;security=tls&amp;encryption=none&amp;host=x-hk.xaniusnippets.qzz.io&amp;type=ws&amp;sni=x-hk.xaniusnippets.qzz.io#%40V2rayMiner%20184%20",
         "vless:\/\/e258977b-e413-4718-a3af-02d75492c349@8.6.112.0:443?path=%2F&amp;security=tls&amp;encryption=none&amp;host=ww23.sgxaniu.qzz.io&amp;type=ws&amp;sni=ww23.sgxaniu.qzz.io#%40V2rayMiner%20167%20",
@@ -14,12 +12,7 @@
         "vless:\/\/1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@216.24.57.1:443\/?type=ws&amp;encryption=none&amp;host=sni.111000.cc.cd&amp;path=%2F%3Fed%3D2560&amp;security=tls&amp;sni=sni.111000.cc.cd#%40V2rayMiner%20134%20%F0%9F%95%8A%EF%B8%8F<\/pre>"
     ],
     "trojan": [],
-    "ss": [
-        "ss:\/\/YWVzLTEyOC1nY206c2hhZG93c29ja3M@156.146.62.161:443#%40V2rayMiner",
-        "ss:\/\/YWVzLTEyOC1nY206c2hhZG93c29ja3M@156.146.62.162:443#%40V2rayMiner",
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWEdwMStpaGxmS2c4MjZI@204.136.10.115:1866#%40V2rayMiner",
-        "ss:\/\/YWVzLTEyOC1n\u2026<\/span>\u00bb<\/div>"
-    ],
+    "ss": [],
     "tuic": [],
     "hysteria": [],
     "hysteria2": [],
