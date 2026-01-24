@@ -1,7 +1,6 @@
 {
     "vmess": [],
     "vless": [
-        "vless:\/\/59e67234-cd96-4082-90cb-624be5f79bba@172.66.45.30:443\/?type=ws&amp;encryption=none&amp;flow=&amp;host=v2rayminer2.pages.dev&amp;path=%2FGfD5LTkmGO4hWd7V%2FMzcuMjcuNTkuODM%3D%3Fed%3D2560&amp;security=tls&amp;sni=v2RaymInEr2.pagES.DEv&amp;alpn=http%2F1.1&amp;fp=randomized#%40V2rayMiner\u2026<\/span>\u00bb<\/div>",
         "vless:\/\/10f3650d-32f6-470a-b100-e29471cf3380@78.159.131.107:443\/?type=tcp&amp;encryption=none&amp;flow=xtls-rprx-vision&amp;sni=pingless.com&amp;fp=random&amp;security=reality&amp;pbk=6vqqlSsqIQLQ-pmkPfTQ0tJ2kh3U74YqTUcn06nYagY&amp;sid=b6#%40V2rayMiner<\/pre>",
         "vless:\/\/10f3650d-32f6-470a-b100-e29471cf3380@78.159.131.107:443\/?type=tcp&amp;encryption=none&amp;flow=xtls-rprx-vision&amp;sni=pingless.com&amp;fp=random&amp;security=reality&amp;pbk=6vqqlSsqIQLQ-pmkPfTQ0tJ2kh3U74YqTUcn06nYagY&amp;sid=b6#%40V2rayMiner",
         "vless:\/\/e258977b-e413-4718-a3af-02d75492c349@8.6.112.0:443?path=%2F&amp;security=tls&amp;encryption=none&amp;host=all.aniuge.qzz.io&amp;type=ws&amp;sni=all.aniuge.qzz.io#%40V2rayMiner%20348<\/pre>",
@@ -16,7 +15,6 @@
     ],
     "trojan": [],
     "ss": [
-        "ss:\/\/YWVzLTEyOC1nY206c2hhZG93c29ja3M@149.34.244.71:443#%40V2rayMiner<\/pre>",
         "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@193.29.139.143:8080#%40V2rayMiner",
         "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@ltnl14.saint.ydns.eu:8080#%40V2rayMiner",
         "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@ltnl14.saint.ydns.eu:8080#%40V2rayMiner",
