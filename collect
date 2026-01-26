@@ -1,7 +1,6 @@
 {
     "vmess": [],
     "vless": [
-        "vless:\/\/5f6f0e0b-5e9c-4116-8cac-6b325fcc4849@198.62.62.127:443\/?type=ws&amp;encryption=none&amp;flow=&amp;host=x1.x-smm.com&amp;path=%2Fapi%2Fv1%2Fchat&amp;security=tls&amp;sni=x1.x-smm.com&amp;fp=chrome#%40V2rayMiner<\/pre>",
         "vless:\/\/5a76fdef-97a2-43cd-93b9-e9646a7d6a6c@92.223.2.31:81\/?encryption=none&amp;flow=&amp;host=excoino.com&amp;type=tcp&amp;headerType=http#%40V2rayMiner%20%F0%9F%87%A6%F0%9F%87%B2<\/pre>",
         "vless:\/\/1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@216.24.57.1:443\/?type=ws&amp;encryption=none&amp;host=sni.111000.cc.cd&amp;path=%2F%3Fed%3D2560&amp;security=tls&amp;sni=sni.111000.cc.cd#%40V2rayMiner%20134%20%F0%9F%95%8A%EF%B8%8F<\/pre>"
     ],
