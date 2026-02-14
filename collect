@@ -1,7 +1,6 @@
 {
     "vmess": [],
     "vless": [
-        "vless:\/\/f148c738-92da-496c-9c9d-9fe3f926eff3@188.114.97.3:8443?path=%2F%3Fed%3D2560&amp;security=tls&amp;alpn=http%2F1.1&amp;encryption=none&amp;insecure=0&amp;host=jnco7df1beoirt.zjde5.de5.net&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=jnco7df1beoirt.zjde5.de5.net#%40V2rayMiner<\/pre>",
         "vless:\/\/bb8c74a1-abc1-4511-b100-9876e30cb65c@172.64.145.38:8443?path=%2F%3Fed%3D2560&amp;security=tls&amp;alpn=http%2F1.1&amp;encryption=none&amp;insecure=0&amp;host=xfjd79v2tjscrm6jqo.zjde5.de5.net&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=xfjd79v2tjscrm6jqo.zjde5.de5.net#%40V2rayMiner%20%F0%9F%87%A9%F0%9F%87%AA<\/pre>",
         "vless:\/\/3e04d9dd-c0bf-43db-a12e-f9f53e83f726@172.64.154.125:8443\/?type=ws&amp;encryption=none&amp;flow=&amp;host=m4nf6qw19e98xglfbjgpsrk2e63lsefr2hdik41nnlocrqs4hqf515.zjde5.de5.net&amp;path=%2F%3Fed%3D2560&amp;security=tls&amp;sni=m4nf6qw19e98xglfbjgpsrk2e63lsefr2hdik41nnlocrqs4hqf515.zjde5.de5.net&amp;alpn=http%2F1.1&amp;fp=chrome#%40V2rayMiner%20%F0%9F%87%A9%F0%9F%87%AA<\/pre>",
         "vless:\/\/1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@192.71.82.245:443?path=%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=sni.111000.cc.Cd&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=sni.111000.cc.Cd#%40V2rayMiner%20%F0%9F%87%A9%F0%9F%87%AA<\/pre>",
@@ -12,7 +11,10 @@
         "vless:\/\/4525c260-df3c-4f62-b8f1-f4f5f305694b@66.81.247.155:443?path=%2F%3Fed%3D&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=yyzsuabw9e3qd5ud7ihi5dxm96oglnsvr83cjojnm1efncfhr9ucordq.zjde5.de5.net&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=yyzsuabw9e3qd5ud7ihi5dxm96oglnsvr83cjojnm1efncfhr9ucordq.zjde5.de5.net#%40V2rayMiner%20%F0%9F%87%A9%F0%9F%87%AA<\/pre>",
         "vless:\/\/829658bf-03c4-4c28-81e9-dd6ea141b2d0@188.114.98.0:443?path=%2F%3Fed%3D2560&amp;security=tls&amp;alpn=http%2F1.1&amp;encryption=none&amp;insecure=0&amp;host=5jq7fvwpqt5owo2fi198sa6qoxznkzfea7en4m3xroeqrt3u3q.zjde5.de5.net&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=5jq7fvwpqt5owo2fi198sa6qoxznkzfea7en4m3xroeqrt3u3q.zjde5.de5.net#%40V2rayMiner%20%F0%9F%87%A9%F0%9F%87%AA<\/pre>",
         "vless:\/\/07a21b46-f4a6-47b6-89d1-98375c44262f@188.114.98.0:443?path=%2F%3Fed&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=1o1qulwpyj16e5ywam0gb7za0957ey3ujj8odofs87th5erf5bqkf9.zjde5.de5.net&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=1o1qulwpyj16e5ywam0gb7za0957ey3ujj8odofs87th5erf5bqkf9.zjde5.de5.net#%40V2rayMiner%20%F0%9F%87%B3%F0%9F%87%B1<\/pre>",
-        "vless:\/\/094e66a9-8d92-41fe-85ad-8e7bf9b5fcaa@146.103.99.25:80?path=%2FgetWorkerUpdates&amp;security=&amp;encryption=none&amp;type=ws#%40V2rayMiner%20<\/pre>"
+        "vless:\/\/094e66a9-8d92-41fe-85ad-8e7bf9b5fcaa@146.103.99.25:80?path=%2FgetWorkerUpdates&amp;security=&amp;encryption=none&amp;type=ws#%40V2rayMiner%20<\/pre>",
+        "vless:\/\/6a2cb1ed-83fa-4f31-999c-d51a6628ef69@sfmidorfeed.global.ssl.fastly.net:443?path=%2Fsite&amp;security=tls&amp;alpn=http%2F1.1&amp;encryption=none&amp;insecure=0&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=sfmidorfeed.global.ssl.fastly.net#%40V2rayMiner%20%F0%9F%87%A9%F0%9F%87%AA<\/pre>",
+        "vless:\/\/6a2cb1ed-83fa-4f31-999c-d51a6628ef69@sfmidorfeed.global.ssl.fastly.net:443?path=%2Fsite&amp;security=tls&amp;alpn=http%2F1.1&amp;encryption=none&amp;insecure=0&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=sfmidorfeed.global.ssl.fastly.net#%40V2rayMiner%20%F0%9F%87%A9%F0%9F%87%AA\u2026<\/span>\u00bb<\/div>",
+        "vless:\/\/6a2cb1ed-83fa-4f31-999c-d51a6628ef69@asbs-osds.global.ssl.fastly.net:443?path=%2Fsite&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;insecure=0&amp;fp=firefox&amp;type=ws&amp;allowInsecure=0&amp;sni=asbs-osds.global.ssl.fastly.net#%40V2rayMiner%20%F0%9F%87%A8%F0%9F%87%AD<\/pre>"
     ],
     "trojan": [],
     "ss": [
