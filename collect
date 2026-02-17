@@ -13,7 +13,9 @@
         "vless:\/\/dd0cfef0-fda9-47ec-8a65-49d7bc004f82@104.21.14.158:443?path=%2F&amp;security=tls&amp;alpn=http%2F1.1&amp;encryption=none&amp;insecure=0&amp;host=6.3pita.com&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=6.3pita.com#%40V2rayMiner%20%F0%9F%87%B9%F0%9F%87%B7<\/pre>",
         "vless:\/\/dd0cfef0-fda9-47ec-8a65-49d7bc004f82@104.21.14.158:443?path=%2F&amp;security=tls&amp;alpn=http%2F1.1&amp;encryption=none&amp;insecure=0&amp;host=6.3pita.com&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=6.3pita.com#%40V2rayMiner%20%F0%9F%87%B9%F0%9F%87%B7",
         "vless:\/\/853d23ee-38c6-41bb-a51c-8aea6a25b0bd@tes1.api-tel.xyz:50855?security=reality&amp;encryption=none&amp;pbk=3iQ5QX52pIjouDXoPSfrQRvpqaOTqG26IJLctU7McAY&amp;headerType=none&amp;fp=chrome&amp;spx=%2F&amp;type=tcp&amp;sni=ea.com&amp;sid=02#%40V2rayMiner%20%F0%9F%87%A9%F0%9F%87%AA<\/pre>",
-        "vless:\/\/7376dac3-b0dc-1822-adee-beb99c1342d9@fi1.mahboob.top:2086?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40V2rayMiner%20%F0%9F%87%AB%F0%9F%87%AE<\/pre>"
+        "vless:\/\/7376dac3-b0dc-1822-adee-beb99c1342d9@fi1.mahboob.top:2086?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40V2rayMiner%20%F0%9F%87%AB%F0%9F%87%AE<\/pre>",
+        "vless:\/\/a992c7a6-832b-4243-a294-d34783d0294c@chatgpt.com:443?path=%2Fv2rayroad&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=hotchoclate.graphapp.ir&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=hotchoclate.graphapp.ir#%40V2rayMiner%20%F0%9F%87%A9%F0%9F%87%AA<\/pre>",
+        "vless:\/\/64a3a23c-363a-4bee-9401-f5c42eea5a27@51.250.86.102:443?security=reality&amp;encryption=none&amp;pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=ads.x5.ru&amp;sid=e55fd8f9c9a9a0ca#%40V2rayMiner%20%F0%9F%87%B7%F0%9F%87%BA<\/pre>"
     ],
     "trojan": [],
     "ss": [
